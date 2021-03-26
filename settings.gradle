@@ -1,0 +1,3 @@
+include ':glas'
+include ':app'
+rootProject.name = "GlassDemoApp"
