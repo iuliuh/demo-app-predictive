@@ -1,11 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<br />
-
 <p align="center">
   <a href="https://github.com/glas-ai/demo-app-predictive/resources/logo.png">
     <img src="resources/logo.png" alt="Logo" width="80" height="80">
@@ -22,8 +14,9 @@
   </p>
 <p align="center">
   <a href="https://glas.ai">
-    <img src="resources/screenshots-small.png" alt="Logo" width="930" height="1200">
+    <img src="resources/screenshots-small.png" alt="Logo" width="775" height="1000">
   </a>
+
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -37,7 +30,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -55,17 +47,17 @@ Why do  you need this:
 
 Sample code is provided in the application for all the above use cases.
 
-### Built With
+## Built With
 
 This project can be build wtih the following prerequisites
-* [Android Studio V4.1.3](https://getbootstrap.com)
-* [Android SDK api leven 26](https://jquery.com)
+* [Android Studio V4.1.3](https://developer.android.com/studio/archive)
+* [Android SDK API Level 26](https://developer.android.com/studio/releases/platforms)
 
 ## Getting Started
 
 Checkout the code, load the project in Android Studio and build it.
 
-### Installation
+## Installation
 
 You can either use Android Studio to build an PK and deploy it on your device, or you can download a pre-built APK from [here](https://google.com)
 
@@ -75,7 +67,7 @@ Install the app, allow all requested permissions then leave it to work in the ba
 
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/glas-ai/demo-app-predictive/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -91,7 +83,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the **LGPL V3.0 License**. See `LICENSE` for more information.
+Distributed under the **GPL V3.0 License**. See `LICENSE` for more information.
 
 The AAR library part is closed source.
 
@@ -99,26 +91,6 @@ The AAR library part is closed source.
 
 ## Contact
 
-GLAS.AI Development Team -  development@glas.ai
+**GLAS.AI Development Team:**  development@glas.ai
 
 Project Link: https://github.com/glas-ai/demo-app-predictive
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
-
